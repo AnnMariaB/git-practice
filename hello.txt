@@ -1,4 +1,4 @@
 Hello Git!
 This is my first Git project.
 I am learning Git for cybersecurity.
-This change was made on my cybersecurity branch.
+I am learning Git at ReDI School.
